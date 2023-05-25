@@ -1,0 +1,93 @@
+{
+  "Doctors": [
+    {
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ],
+  "users": [
+    {
+      "name": "Kuldeep Tiwari",
+      "email": "kkt55567tiwari@gmail.com",
+      "password": "5775",
+      "user": "Doctor",
+      "id": 1
+    },
+    {
+      "name": "pankaj",
+      "email": "satya@gmail.com",
+      "password": "5775",
+      "user": "Client",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "user": "Doctor",
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Harsh Raj",
+      "image": "https://pngimg.com/uploads/doctor/small/doctor_PNG16030.png",
+      "specialization": "Cardiologist",
+      "experience": "9",
+      "location": "Goa",
+      "date": "2023-05-27",
+      "slots": "4",
+      "fee": "600",
+      "id": 1
+    },
+    {
+      "name": "Shital Jha",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCDBSk9nQCP5fnbQzJP99wMI80DUVgFvQj2HbHZS4Dw&s",
+      "specialization": "Dermatologist",
+      "experience": "5",
+      "location": "Mumbai",
+      "date": "2023-05-26",
+      "slots": "2",
+      "fee": "500",
+      "id": 2
+    },
+    {
+      "name": "Sumant Shekhar",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8569VQJn1IWVXI6SO0yPwDYV2_mEjmUIFD02Bug&s",
+      "specialization": "Dermatologist",
+      "experience": "2",
+      "location": "Hydrabad",
+      "date": "2023-06-09",
+      "slots": "8",
+      "fee": "800",
+      "id": 3
+    },
+    {
+      "name": "Harsh Raj",
+      "image": "asfasfsa",
+      "specialization": "afsafa",
+      "experience": "13",
+      "location": "fasfs",
+      "date": "2023-05-11",
+      "slots": "3",
+      "fee": "13",
+      "id": 4
+    }
+  ]
+}
